@@ -1,6 +1,7 @@
 # Hyperskill Projects — Ahmad
 
-A collection of project-based learning work built while studying on [Hyperskill](https://hyperskill.org){:target="_blank"}, JetBrains' project-based platform
+A collection of project-based learning work built while studying on
+[Hyperskill](https://hyperskill.org), JetBrains' project-based platform
 for software development skills.
 
 ## About this organization
@@ -31,8 +32,8 @@ on how each project was approached over time.
 
 ## Links
 
-- GitHub profile: <a href="https://github.com/ahmdnz" target="_blank">github.com/ahmdnz</a>
-- Hyperskill profile: <a href="https://hyperskill.org/my-learning/18484937" target="_blank">My Learning</a>
+- GitHub profile: [github.com/ahmdnz](https://github.com/ahmdnz)
+- Hyperskill profile: [My Learning](https://hyperskill.org/my-learning/18484937)
 
 ---
 
