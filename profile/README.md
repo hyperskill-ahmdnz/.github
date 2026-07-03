@@ -1,6 +1,6 @@
 # Hyperskill Projects — Ahmad
 
-A collection of project-based learning work built while studying on <a href="https://hyperskill.org" target="_blank">Hyperskill</a>, JetBrains' project-based platform
+A collection of project-based learning work built while studying on [Hyperskill]("https://hyperskill.org"){:target="_blank"}, JetBrains' project-based platform
 for software development skills.
 
 ## About this organization
